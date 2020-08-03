@@ -15,4 +15,4 @@ title = "Blog"
 
 - Moment: Some moments that I feel something and eager to write it down. Fragments in my life. Short memos.
 
-- Gallery: Pictures I'd like to share. My favourite ones.
+- Gallery: Pictures I'd like to share. My favourite ones.http://localhost:1313/

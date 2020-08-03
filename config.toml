@@ -1,4 +1,4 @@
-baseURL                    = "https://orianna-zzo.github.io/"
+baseURL                    = "https://flyning.github.io/"
 builddrafts                = false
 languageCode               = "zh-Hans"
 canonifyurls               = true
@@ -11,9 +11,11 @@ summaryLength              = 200
 Paginate                   = 5
 
 theme                      = "AllinOne"
-title                      = "ZHENG Zi'ou"
+title                      = "Fu'ning"
 
 pygmentsuseclasses         = true
+
+
 
 
 [permalinks]
@@ -54,17 +56,18 @@ pygmentsuseclasses         = true
   #   identifier             = "profile"
   #   url                    = "profile/"
 
-  [[menu.main]]
-    name                   = "About"
-    weight                 = 9
-    identifier             = "about"
-    url                    = "about/"
+  # [[menu.main]]
+  #   name                   = "About"
+  #   weight                 = 9
+  #   identifier             = "about"
+  #   url                    = "about/"
 
 
 [params]
-  faviconfile              = "img/zheng.png"
+  # faviconfile              = "img/zheng.png"
+  faviconfile              = "img/profile.jpg"
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
-  author                   = "ZHENG Zi'ou"
+  author                   = "Fu'ning"
   description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
   welcome_word             = "~ No Day But Today ~"
@@ -81,20 +84,23 @@ pygmentsuseclasses         = true
 
   
 
+
+
+
   # highlighting 
   highlightjs              = true
   
 
   # links
-  email                    = "zhengziou@gmail.com"
-  github                   = "//github.com/orianna-zzo"
-  linkedin                 = "//linkedin.com/in/ziouzheng"
+  email                    = "kdlfnn@gmail.com"
+  github                   = "//github.com/flymenn"
+  # linkedin                 = "//linkedin.com/in/ziouzheng"
   # facebook                 = "//facebook.com/profile.php?id=100001597502469"
   # googleplus               = "//plus.google.com/u/0/114708482192918964838"
   # twitter                  = "//twitter.com/ZhengZiou"
   # px500                    = "//px500"
   instagram                = "//instagram.com/seagulldreamer/"
-  include_rss              = false                         # include RSS <link> tag in <head> and show RSS icon
+  include_rss              = true                         # include RSS <link> tag in <head> and show RSS icon
 
 
   # analytics

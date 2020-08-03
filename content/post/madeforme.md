@@ -19,6 +19,12 @@ toc: true
 
 首先说明下按键符号，如果第一次使用mac可能会有些混，因此这里说明一下：
 
+
+
+![aa](https://t8.baidu.com/it/u=3571592872,3353494284&fm=79&app=86&size=h300&n=0&g=4n&f=jpeg?sec=1597068874&t=42d83ac77b2cc8955f10072ab09a9615)
+
+
+
 ⌘ - command
 
 ⌥ - option
